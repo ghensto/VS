@@ -1,0 +1,10 @@
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Form1.resources
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Resources.resources
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.vbproj.GenerateResource.Cache
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.xml
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.xml
+c:\users\ghensto\documents\visual studio 2013\Projects\Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb

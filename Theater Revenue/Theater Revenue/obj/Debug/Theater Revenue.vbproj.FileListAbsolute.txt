@@ -1,0 +1,11 @@
+c:\users\ghensto\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe.config
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.exe
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.pdb
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\bin\Debug\Theater Revenue.xml
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbprojResolveAssemblyReference.cache
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater_Revenue.TheaterRevenue.resources
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater_Revenue.Resources.resources
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.vbproj.GenerateResource.Cache
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.exe
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.xml
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Theater Revenue\Theater Revenue\obj\Debug\Theater Revenue.pdb

@@ -1,0 +1,11 @@
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.exe.config
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.exe
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.pdb
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\bin\Debug\Miles per Gallon Calculator.xml
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles_per_Gallon_Calculator.MilesperGallonCalculator.resources
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles_per_Gallon_Calculator.Resources.resources
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.vbproj.GenerateResource.Cache
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.exe
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.xml
+c:\users\ghensto\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.pdb
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Miles per Gallon Calculator\Miles per Gallon Calculator\obj\Debug\Miles per Gallon Calculator.vbprojResolveAssemblyReference.cache

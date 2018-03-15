@@ -1,0 +1,11 @@
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe.config
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\bin\Debug\Currency Converter.exe
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\bin\Debug\Currency Converter.pdb
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\bin\Debug\Currency Converter.xml
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.CurrencyConverter.resources
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency_Converter.Resources.resources
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency Converter.vbproj.GenerateResource.Cache
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency Converter.exe
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency Converter.xml
+c:\users\ghensto\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency Converter.pdb
+C:\Users\GHENSTO\documents\visual studio 2013\Projects\Currency Converter\Currency Converter\obj\Debug\Currency Converter.vbprojResolveAssemblyReference.cache

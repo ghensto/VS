@@ -1,0 +1,10 @@
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\bin\Debug\Calculating Property Tax.exe.config
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\bin\Debug\Calculating Property Tax.exe
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\bin\Debug\Calculating Property Tax.pdb
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\bin\Debug\Calculating Property Tax.xml
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\obj\Debug\Calculating_Property_Tax.CalculatingPropertyTax.resources
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\obj\Debug\Calculating_Property_Tax.Resources.resources
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\obj\Debug\Calculating Property Tax.vbproj.GenerateResource.Cache
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\obj\Debug\Calculating Property Tax.exe
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\obj\Debug\Calculating Property Tax.xml
+c:\users\ghensto\documents\visual studio 2013\Projects\Calculating Property Tax\Calculating Property Tax\obj\Debug\Calculating Property Tax.pdb
